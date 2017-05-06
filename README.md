@@ -2,12 +2,14 @@
 ## http://166.104.144.67:50002/
 
 Socio-Infomatics-Center는 사회문제를 데이터기반으로 분석하여 문제해결을 위한 정책결정이나 방향을 좀 더 객관적,정확하게 만들기 위한 방법으로써 사용될 수 있다.
-1. Social Infomatics Center
-http://166.104.144.67:50002/
 
+1. Social Infomatics Center
+
+http://166.104.144.67:50002/
 ![img1](img/img1.png)
 
 2. 시연 영상
+
 https://www.youtube.com/watch?v=T3URtHRoIgM
 ![img2](img/img2.png)
 
