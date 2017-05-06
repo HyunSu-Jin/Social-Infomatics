@@ -6,11 +6,13 @@ Socio-Infomatics-Center는 사회문제를 데이터기반으로 분석하여 �
 1. Social Infomatics Center
 
 http://166.104.144.67:50002/
+
 ![img1](img/img1.png)
 
 2. 시연 영상
 
 https://www.youtube.com/watch?v=T3URtHRoIgM
+
 ![img2](img/img2.png)
 
 ## 연구 목표
